@@ -20,7 +20,7 @@ wp.ffhh ist **NICHT** im Internet erreichbar. In Hamburg ist es möglich http://
  - CPU: 700 MHz
  - RAM: 512 MB
  - SD: 32 GB
-- *TP-Link TL-WDR3600* mit Freifunk Hamburg Firmware
+- ~~TP-Link TL-WDR3600~~ mit Freifunk Hamburg Firmware
  - momentan TP-Link TL-WR841N
 
 #### Software
