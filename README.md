@@ -12,6 +12,8 @@ wp.ffhh ist **NICHT** im Internet erreichbar. In Hamburg ist es möglich http://
 
 ## Konfiguration
 
+![photo of the running Raspberry Pi](https://raw.githubusercontent.com/reimersjan/wp.ffhh/master/assets/photo.jpg)
+
 #### Hardware
 
 - Raspberry Pi Model B
@@ -50,8 +52,10 @@ host wp {
 
 [@wpffhh auf Twitter](https://twitter.com/wpffhh) ist der Status-Kanal für den Dienst. Falls wp.ffhh mal down oder länger offline sein sollte, steht es dort.
 
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/reimersjan/wp.ffhh/master/assets/screenshot-2015-06-16.png)
+
 ---
 
 -- wp.ffhh
-
-![photo of the running Raspberry Pi](https://raw.githubusercontent.com/reimersjan/wp.ffhh/master/assets/photo.jpg)
