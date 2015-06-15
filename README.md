@@ -46,10 +46,12 @@ host wp {
 }
 ```
 
-*...Konfigurationsdateien folgen*
+## Status
+
+[@wpffhh auf Twitter](https://twitter.com/wpffhh) ist der Status-Kanal für den Dienst. Falls wp.ffhh mal down oder länger offline sein sollte, steht es dort.
 
 ---
 
-![photo of the running Raspberry Pi](https://raw.githubusercontent.com/reimersjan/wp.ffhh/master/assets/photo.jpg)
-
 -- wp.ffhh
+
+![photo of the running Raspberry Pi](https://raw.githubusercontent.com/reimersjan/wp.ffhh/master/assets/photo.jpg)
