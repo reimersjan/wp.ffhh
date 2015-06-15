@@ -8,7 +8,7 @@ Das Ziel ist, dass jede/r sich einfach und unkompliziert eine WordPress-Seite ei
 
 ## Erreichbarkeit
 
-wp.ffhh ist **NICHT** im Internet erreichbar. In Hamburg ist es möglich http://wp.ffhh im Browser aufzurufen, wenn man mit dem ** WLAN *hamburg.freifunk.net* ** verbunden ist. Aus anderen Städten / Freifunk-Communities ist es ebenfalls möglich wp.ffhh aufzurufen, allerdings nur wenn die Community ans [InterCity-VPN](http://freifunk.net/blog/2014/02/das-intercity-vpn/) angeschlossen ist.
+wp.ffhh ist **NICHT** im Internet erreichbar. In Hamburg ist es möglich http://wp.ffhh im Browser aufzurufen, wenn man mit dem **WLAN _hamburg.freifunk.net_** verbunden ist. Aus anderen Städten / Freifunk-Communities ist es ebenfalls möglich wp.ffhh aufzurufen, allerdings nur wenn die Community ans [InterCity-VPN](http://freifunk.net/blog/2014/02/das-intercity-vpn/) angeschlossen ist.
 
 ## Konfiguration
 
