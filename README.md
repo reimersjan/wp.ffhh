@@ -7,3 +7,7 @@ Das Ziel ist, dass jede/r sich einfach und unkompliziert eine WordPress-Seite ei
 ### Dokumentation
 
 Dieses Repository dient der Dokumentation der Konfiguration.
+
+### Erreichbarkeit
+
+wp.ffhh ist **NICHT** im Internet erreichbar. In Hamburg ist es möglich http://wp.ffhh im Browser aufzurufen, wenn man mit dem WLAN *hamburg.freifunk.net* verbunden ist. In anderen Städten (Freifunk-Communities) ist es ebenfalls möglich wp.ffhh aufzurufen, allerdings nur wenn die Community ans InterCity-VPN angeschlossen ist.
