@@ -1,6 +1,4 @@
-# wp.ffhh
-
-*Dieses Repository dient der allgemeinen Information und der Konfigurationsdokumentation.*
+# wp.ffhh Dokumentation (german)
 
 <img src="https://raw.githubusercontent.com/reimersjan/wp.ffhh/master/assets/wpffhh-logo.jpg" width="200" height="200" alt="wp.ffhh logo"/>
 
