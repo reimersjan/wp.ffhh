@@ -36,6 +36,7 @@ wp.ffhh ist **NICHT** im Internet erreichbar. In Hamburg ist es möglich http://
  - [WordPress Importer](https://wordpress.org/plugins/wordpress-importer/)
  - [WP-Mail-SMTP](https://wordpress.org/plugins/wp-mail-smtp/)
  - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+- **Konfigurationsdateien in [server-files](https://github.com/reimersjan/wp.ffhh/tree/master/server-files)**
 
 #### Domain  
 
