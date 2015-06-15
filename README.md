@@ -6,7 +6,7 @@ Das Ziel ist, dass jede/r sich einfach und unkompliziert eine WordPress-Seite ei
 
 ### Dokumentation
 
-Dieses Repository dient der Dokumentation der Konfiguration.
+Dieses Repository dient der allgemeinen Information und der Konfigurationsdokumentation.
 
 ### Erreichbarkeit
 
