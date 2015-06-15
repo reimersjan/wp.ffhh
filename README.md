@@ -30,12 +30,11 @@ wp.ffhh ist **NICHT** im Internet erreichbar. In Hamburg ist es möglich http://
 - PHP
  - php-apc
 - MySQL
-- WordPress Multisite
- - Plugins
-   - Multi-Site Site List Shortcode
-   - WordPress Importer
-   - WP-Mail-SMTP
-   - WP Super Cache
+- WordPress Multisite mit folgenden Plugins:
+ - Multi-Site Site List Shortcode
+ - WordPress Importer
+ - WP-Mail-SMTP
+ - WP Super Cache
 
 #### Domain  
 
