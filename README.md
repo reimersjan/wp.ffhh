@@ -56,7 +56,3 @@ host wp {
 ## Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/reimersjan/wp.ffhh/master/assets/screenshot-2015-06-16.png)
-
----
-
--- wp.ffhh
