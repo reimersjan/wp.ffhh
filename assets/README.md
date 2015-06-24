@@ -17,3 +17,7 @@ photo.jpg
 photo2.jpg
 
 ![photo2.jpg](https://raw.githubusercontent.com/reimersjan/wp.ffhh/master/assets/photo2.jpg)
+
+diagramm.png
+
+![diagramm.png](https://raw.githubusercontent.com/reimersjan/wp.ffhh/master/assets/diagramm.png)
